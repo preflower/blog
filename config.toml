@@ -1,4 +1,4 @@
-baseURL = 'http://ted..org/'
+baseURL = 'https://imted.netlify.app/'
 languageCode = 'en-us'
 title = "Ted's Blog"
 theme = 'yinyang'
