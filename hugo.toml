@@ -1,0 +1,24 @@
+baseURL = 'https://imted.netlify.app/'
+languageCode = 'en-us'
+title = "Ted's Blog"
+theme = 'yinyang'
+DefaultContentLanguage = "cn"
+
+[params]
+headTitle = "Ted's Blog"
+Description = 'Log something my writing'
+
+[[params.socials]]
+name = "RSS"
+link = "/index.xml"
+
+[[params.socials]]
+name = "Github"
+link = "https://github.com/preflower"
+
+[languages]
+
+[languages.cn]
+contentDir = "content/cn"
+languageName = "Chinese"
+weight = 1
