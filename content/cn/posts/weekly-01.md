@@ -10,7 +10,6 @@ categories: ['weekly']
 ## 目的
 - 每周的总结/复盘
 - 督促笔者对所学所看进行再思考
-- 
 
 ## 2023-09-11
 - React 提供`ComponentProps<T>`TS工具类

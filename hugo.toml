@@ -6,7 +6,9 @@ DefaultContentLanguage = "cn"
 
 [params]
 headTitle = "Ted's Blog"
-Description = 'Log something my writing'
+description = 'Log something my writing'
+favicon = "/favicon.ico"
+extraHead = '<script async src="https://analytics.eu.umami.is/script.js" data-website-id="3755c68e-cfba-4b6a-85c4-654d790b9eea"></script>'
 
 [[params.socials]]
 name = "RSS"
